@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+girl_book
+db.sqlite3
+/static
+.DS_Store
